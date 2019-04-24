@@ -1,0 +1,6 @@
+token=NTcwNzE5NTM2MjQ5MTc2MDY0.XMDSAw.jtaBJe0UKUWXiSiglE0FNkvepk8
+owner=567694723679125514  
+prefix=1
+game=Linex , Server
+stayinchannel=true
+songinstatus=true
