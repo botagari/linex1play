@@ -1,4 +1,4 @@
-token=NTcwNzE5NTM2MjQ5MTc2MDY0.XMDSAw.jtaBJe0UKUWXiSiglE0FNkvepk8
+KUWXiSiglE0FNkvepk8
 owner=567694723679125514  
 prefix=-
 game=-Dgymnasium.
